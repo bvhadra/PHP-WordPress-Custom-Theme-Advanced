@@ -1,4 +1,6 @@
-Advanced Custom WordPress Theme
+<h1>Advanced Custom WordPress Theme</h1>
+
+<h4>A custom advanced WordPress theme which I built from scratch. It includes full theme setup with header, nav bar, menu, blog posts, various templates for blog posts with pagination, archive, search results, full pages, custom page templates, theme widgets and full styling.</h4>
 
 This repository showcases my skills in developing a custom, advanced WordPress theme from scratch. The theme is designed to be highly functional, visually appealing, and optimized for performance, demonstrating my proficiency in WordPress theme development, PHP, HTML, CSS, and JavaScript.
 
